@@ -3,5 +3,5 @@
 int  main()
 {
     puts("helloworld");
-    return     0；
+    return     0;
 }
